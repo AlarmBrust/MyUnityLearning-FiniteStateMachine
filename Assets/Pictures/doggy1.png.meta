@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: c641dc801cd198f4c8aa3c7e98ccdf64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1715279541656409200
+    second: doggy1_0
+  - first:
+      213: 4136420234975189212
+    second: doggy1_1
+  - first:
+      213: -5573212929353140568
+    second: doggy1_2
+  - first:
+      213: 7894178990570480939
+    second: doggy1_3
+  - first:
+      213: -7835568360625796819
+    second: doggy1_4
+  - first:
+      213: 4587080430489162317
+    second: doggy1_5
+  - first:
+      213: 6760980656416945420
+    second: doggy1_6
+  - first:
+      213: -2234276501887358148
+    second: doggy1_7
+  - first:
+      213: 9078803553564833042
+    second: doggy1_8
+  - first:
+      213: 5501063617637232670
+    second: doggy1_9
+  - first:
+      213: -2897626995902633832
+    second: doggy1_10
+  - first:
+      213: -7625911024203196125
+    second: doggy1_11
+  - first:
+      213: 1996823196762354896
+    second: doggy1_12
+  - first:
+      213: 3921033031529554925
+    second: doggy1_13
+  - first:
+      213: 5236706231742585194
+    second: doggy1_14
+  - first:
+      213: 5792242363238001021
+    second: doggy1_15
+  - first:
+      213: -3263775856624459607
+    second: doggy1_16
+  - first:
+      213: -7455103174241639939
+    second: doggy1_17
+  - first:
+      213: 6743585859102589823
+    second: doggy1_18
+  - first:
+      213: 6379257928891708615
+    second: doggy1_19
+  - first:
+      213: 1464836395697332148
+    second: doggy1_20
+  - first:
+      213: 6923571838723519639
+    second: doggy1_21
+  - first:
+      213: -3734603746621534238
+    second: doggy1_22
+  - first:
+      213: -2149970769079086129
+    second: doggy1_0
+  - first:
+      213: -3348172263355334876
+    second: doggy1_1
+  - first:
+      213: -143439523968694076
+    second: doggy1_2
+  - first:
+      213: 4870670798860654939
+    second: doggy1_3
+  - first:
+      213: -5546272720345233681
+    second: doggy1_4
+  - first:
+      213: 8949288404912918095
+    second: doggy1_5
+  - first:
+      213: 3537320565253875403
+    second: doggy1_6
+  - first:
+      213: -7689767293986674812
+    second: doggy1_7
+  - first:
+      213: 2485202368077256026
+    second: doggy1_8
+  - first:
+      213: 2399084536004640067
+    second: doggy1_9
+  - first:
+      213: 8621212208006130231
+    second: doggy1_10
+  - first:
+      213: 417285101175902256
+    second: doggy1_11
+  - first:
+      213: 7725546225523975349
+    second: doggy1_12
+  - first:
+      213: -3265424261321116979
+    second: doggy1_13
+  - first:
+      213: 5751740849413963770
+    second: doggy1_14
+  - first:
+      213: 3915287928182837032
+    second: doggy1_15
+  - first:
+      213: 5846918023395311232
+    second: doggy1_16
+  - first:
+      213: -1234021539534871748
+    second: doggy1_17
+  - first:
+      213: -3783923605578867163
+    second: doggy1_18
+  - first:
+      213: 7112499011153676848
+    second: doggy1_19
+  - first:
+      213: -4824899887137846107
+    second: doggy1_20
+  - first:
+      213: 6976767834948072251
+    second: doggy1_21
+  - first:
+      213: -7385292507477400731
+    second: doggy1_22
+  - first:
+      213: 1183881216291200626
+    second: doggy1_23
+  - first:
+      213: 1365487084413752842
+    second: doggy1_24
+  - first:
+      213: -9183209360867251223
+    second: doggy1_25
+  - first:
+      213: -8520720201775561747
+    second: doggy1_26
+  - first:
+      213: -5970332999348714517
+    second: doggy1_27
+  - first:
+      213: -6189893743695478674
+    second: doggy1_28
+  - first:
+      213: 1971831962997555
+    second: doggy1_29
+  - first:
+      213: 7349826757258768314
+    second: doggy1_30
+  - first:
+      213: -7644594404829741546
+    second: doggy1_31
+  - first:
+      213: -2315372712078177651
+    second: doggy1_32
+  - first:
+      213: 7078171663412235048
+    second: doggy1_33
+  - first:
+      213: -6322244339185696797
+    second: doggy1_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doggy1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3519ff9f4c922e0800000000000000
+      internalID: -2149970769079086129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fb3ebd017e881d0800000000000000
+      internalID: -3348172263355334876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 75
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8481f4386620ef0800000000000000
+      internalID: -143439523968694076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 75
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5915ff1949189340800000000000000
+      internalID: 4870670798860654939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 75
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe60264a85ea703b0800000000000000
+      internalID: -5546272720345233681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4b5f8362423c70800000000000000
+      internalID: 8949288404912918095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 57
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc624a40056171130800000000000000
+      internalID: 3537320565253875403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487e1846365784590800000000000000
+      internalID: -7689767293986674812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 57
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555438f2663d7220800000000000000
+      internalID: 2485202368077256026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 57
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d70b2bca24b4120800000000000000
+      internalID: 2399084536004640067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a677773d2b4a770800000000000000
+      internalID: 8621212208006130231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 39
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03017a1b69e7ac500800000000000000
+      internalID: 417285101175902256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b467344c57a63b60800000000000000
+      internalID: 7725546225523975349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2330f6fe1eea2d0800000000000000
+      internalID: -3265424261321116979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff3c6914d942df40800000000000000
+      internalID: 5751740849413963770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f86b860a5e55630800000000000000
+      internalID: 3915287928182837032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e7e47c6fc642150800000000000000
+      internalID: 5846918023395311232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33e7daa2ffdfdee0800000000000000
+      internalID: -1234021539534871748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 19
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e9140678dcc7bc0800000000000000
+      internalID: -3783923605578867163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 19
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac121ca2ca4b260800000000000000
+      internalID: 7112499011153676848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8356bd138a0db0800000000000000
+      internalID: -4824899887137846107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b337372a16572d060800000000000000
+      internalID: 6976767834948072251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a479e79b228990800000000000000
+      internalID: -7385292507477400731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5b4991bdfd6010800000000000000
+      internalID: 1183881216291200626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy1_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a069dd3c44f23f210800000000000000
+      internalID: 1365487084413752842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
